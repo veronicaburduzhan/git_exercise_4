@@ -5,3 +5,4 @@ Hello world!
 learning code javascript
 >>>>>>> Stashed changes
 1
+2
